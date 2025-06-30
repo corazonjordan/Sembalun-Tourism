@@ -1,0 +1,1 @@
+<footer class='bg-green-800 text-white text-center p-4 mt-10'>© 2025 Sembalun. Built with ❤️</footer></body></html>

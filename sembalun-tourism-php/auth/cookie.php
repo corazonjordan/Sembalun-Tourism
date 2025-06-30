@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE['user'])) { echo 'Selamat datang kembali, ' . $_COOKIE['user']; } ?>
